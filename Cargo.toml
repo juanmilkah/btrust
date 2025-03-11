@@ -1,6 +1,10 @@
 [package]
 name = "btrust"
+description = "A BitTorrent Client Implementation"
 version = "0.1.0"
 edition = "2024"
+authors = ["Juan Milkah <juanmilkah@gmail.com>"]
+repository = "https://github.com/juanmilkah/btrust"
+license = "MIT"
 
 [dependencies]
